@@ -27,12 +27,13 @@ PCA-transformed features effectively encode patterns for fraud detection.
 🚀 Tools & Technologies
 
 Programming Language: Python
+
 Libraries:
 
-Data Manipulation: Pandas, NumPy
+- Data Manipulation: Pandas, NumPy
 
-Visualization: Matplotlib, Seaborn
+- Visualization: Matplotlib, Seaborn
 
-Clustering: scikit-learn
+- Clustering: scikit-learn
 
-Dimensionality Reduction: PCA
+- Dimensionality Reduction: PCA
