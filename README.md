@@ -37,3 +37,8 @@ Libraries:
 - Clustering: scikit-learn
 
 - Dimensionality Reduction: PCA
+
+Dataset:
+
+- https://www.kaggle.com/datasets/mlg-ulb/creditcardfraud
+
